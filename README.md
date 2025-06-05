@@ -1,1 +1,1 @@
-# ChAMP
+# Code for ChAMP analysis
